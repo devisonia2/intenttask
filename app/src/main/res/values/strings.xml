@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intent task</string>
+    <string name="to">TO</string>
+    <string name="enter_email">Email</string>
+    <string name="subject">Subject</string>
+    <string name="body">Body</string>
+    <string name="move">MOVE</string>
+    <string name="number">Number</string>
+    <string name="message">Message</string>
+    <string name="SMS">SMS</string>
+</resources>
